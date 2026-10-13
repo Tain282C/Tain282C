@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Tain282C!
 
-<!--
-**Tain282C/Tain282C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm learning software engineering and building projects to practice what I learn.
 
-Here are some ideas to get you started:
+## What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Getting comfortable with Git and GitHub workflows
+- Current Project: Git and GitHub workflow
+
+# Tech/Languages/Frameworks I'm Learning
+- Python
+- JavaScript
+- React
+- HTML/CSS
+- TypeScript
+- React
+- RESTful API
+
+## Projects
+
+- [git-practice](https://github.com/Tain282C/git-practice): where I practice branching, pull requests, and merge conflicts
